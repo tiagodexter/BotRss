@@ -1,0 +1,12 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "Bot for Telegram",
+  "main": "app.js",
+  "author": "Tiago Drumond",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.71.0",
+    "xml2js": "^0.4.16"
+  }
+}

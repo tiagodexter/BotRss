@@ -1,0 +1,2 @@
+#Commands(comma separeted)|Rss Link
+#all,todos|http://feeds.ign.com/ign/all?format=xml
